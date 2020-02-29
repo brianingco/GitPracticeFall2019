@@ -9,6 +9,7 @@ public class LoopPractice {
             System.out.println("Counter" + i);
             System.out.println("Adding another line for practice");
             System.out.println("trying to commit using the green check mark");
+            System.out.println("test");
 
         }
     }
